@@ -28,4 +28,10 @@ $ mvn spring-boot:run
  junit4 - para pruebas
  swagger - interfaz de usuario para probar el endpoint
 
+## Captura de Swagger
+Se puede ubicar en la ruta http://localhost:8080/doc/swagger-ui/index.html#
+
+<img width="1489" alt="image" src="https://github.com/ceodev18/prueba-tecnica-auth/assets/20958764/6ae313bb-2080-4605-a4eb-7d2ffe11684c">
+
+
 
