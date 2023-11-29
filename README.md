@@ -29,7 +29,7 @@ $ mvn spring-boot:run
  swagger - interfaz de usuario para probar el endpoint
 
 ##Swagger UI
-* [Swagger UI](http://localhost:8080/doc/swagger-ui/index.html#)
+http://localhost:8080/doc/swagger-ui/index.html
 
 
 
